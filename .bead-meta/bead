@@ -1,0 +1,10 @@
+{
+    "inputs": {
+        "supplier-survey-partners-identified": {
+            "content_id": "f04a8b2626576ae1b0a0fb01eb9842b71b7a555dc9354566aaf676c199d570b425105e0a8467c0997d7a1dba48d4148ef47dadaf3cf982c9c3b7a00aaa729003",
+            "freeze_time": "20200423T115300753722+0200",
+            "kind": "5ac73d01e43b2c1d30d9c48e07724f92-41e53f19-7517-4a04-bd77-d8b6cd0f0053"
+        }
+    },
+    "kind": "caf134c5e4abdf68be551c1c777db93a-fcafeb2b-a12d-4380-a201-6a44eced43ba"
+}
